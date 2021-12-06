@@ -24,6 +24,7 @@ Different snake speeds based on user chosen difficulty mode.
 4. Class constructors utilize member initialization lists.  See User Constructor and HighScore Constructor, both use initialization lists.
 5. Classes encapsulate behavior.  High Score reading, checking against user's score and modification of the file are all encapsulated in the HighScore class with appropriate function calls for the main.cpp function to call.
 
+
 <img src="snake_game.gif"/>
 
 
