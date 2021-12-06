@@ -1,6 +1,8 @@
 # CPPND: Capstone Snake Game
 A modern adaptation on the classic Snake game!  Try to eat as much food and grow the snake as large as you can!  As the snake eats more, its length and speed increase.  Keep going until the snake runs into its own body!
 
+To begin, first type your name, then choose the difficulty mode: Easy (0), or Hard (1).  Finally, choose if you want to reset the High Score list.  After that, you are ready to control the snake and grow it as large as you can, using the 4 arrow keys to control its direction, without running into itself.
+
 This game has two different difficulties: Easy Mode where the snake can find randomly occuring medicine (green blocks) that slow the snake down, and Hard Mode where there is no medicine, and each time the snake eats, its speed increases twice as fast as Easy Mode.
 
 Keep track of the Highest Scores in the HighScores.txt file, which notes the top score and user name for the Easy and Hard modes, as well as the option to reset the high scores.
